@@ -5,7 +5,7 @@
 <h2>
   Hello, I'm Guilherme Lima de Paula!
 </h2>
-<img align='right' src="./code-icon.svg" width="230">
+
 <p><em>Studying Systems Development at Etec</em></p>
 
 ```java
