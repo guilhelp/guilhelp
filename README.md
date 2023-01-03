@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<div align="center"> 
+
 <h2>
   Hello, I'm Rickelme Dias! <img src="https://user-images.githubusercontent.com/43411893/208497911-d8994cd0-976a-4b54-aebc-daa2f5a2f05a.gif" width="50">
 </h2>
@@ -10,16 +10,14 @@
 
 ```java
 public class Me {
-  String name = "Rickelme Dias";
-  int age = 22;
-  String[] programming = { "Java", "Javascript", "Typescript", "C", "C++", "Python" };
-  String[] frameworks = { "Spring", "React.js", "Angular 9", "Scrum" };
-  String[] systems = { "Windows", "Ubuntu", "Arch" };
+  String name = "Guilherme Lima de Paula";
+  int age = 16;
+  String[] programming = { "Java", "Javascript", "Python", "C++", "HTML", "CSS" };
+  String[] systems = { "Windows", "Mint",};
   String[] languages = { "Portuguese", "English" };
 }
 ```
 
-</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Lima+de+Paula;I'm+16+years+old;I+from+Brasil,+SP;I+study+systems+development+at+ETEC;Welcome!+:%29)](https://git.io/typing-svg)
 
