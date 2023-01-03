@@ -2,8 +2,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center"> 
-<img width=70% position="center" src="https://i.pinimg.com/originals/18/bd/41/18bd41e969bb3c40a2a59f4496e70090.gif"/>
-<br>
+<h2>
+  Hello, I'm Rickelme Dias! <img src="https://user-images.githubusercontent.com/43411893/208497911-d8994cd0-976a-4b54-aebc-daa2f5a2f05a.gif" width="50">
+</h2>
+<img align='right' src="./code-icon.svg" width="230">
+<p><em>Software Developer at Bosch Brazil as Researcher with Scholarship</em></p>
+
+```java
+public class Me {
+  String name = "Rickelme Dias";
+  int age = 22;
+  String[] programming = { "Java", "Javascript", "Typescript", "C", "C++", "Python" };
+  String[] frameworks = { "Spring", "React.js", "Angular 9", "Scrum" };
+  String[] systems = { "Windows", "Ubuntu", "Arch" };
+  String[] languages = { "Portuguese", "English" };
+}
+```
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Lima+de+Paula;I'm+16+years+old;I+from+Brasil,+SP;I+study+systems+development+at+ETEC;Welcome!+:%29)](https://git.io/typing-svg)
