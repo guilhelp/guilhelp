@@ -6,7 +6,7 @@
   Hello, I'm Guilherme Lima de Paula!
 </h2>
 <img align='right' src="./code-icon.svg" width="230">
-<p><em>Software Developer at Bosch Brazil as Researcher with Scholarship</em></p>
+<p><em>Studying Systems Development at Etec</em></p>
 
 ```java
 public class Me {
